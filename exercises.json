@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Barbell Squat",
+        "muscle_group": "Quads , Glutes, Core",
+        "equipment": "Barbell",
+        "difficulty": "Hard",
+        "video_url": "https://www.youtube.com/shorts/PPmvh7gBTi0"
+    },
+    {
+        "name": "Deadlift",
+        "muscle_group": "Back, Glutes, Hamstrings",
+        "equipment": "Barbell",
+        "difficulty": "Hard",
+        "video_url": "https://www.youtube.com/shorts/ZaTM37cfiDs"
+    },
+    {
+        "name": "Bench Press",
+        "muscle_group": "Chest , Triceps",
+        "equipment": "Barbell",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/hWbUlkb5Ms4"
+    },
+    {
+        "name": "Barbell Overhead Press",
+        "muscle_group": "Shoulders , Triceps",
+        "equipment": "Barbell",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/4LBVP2Oe7fg"
+    },
+    {
+        "name": "Pull Ups",
+        "muscle_group": "Back , Biceps",
+        "equipment": "Pull-Up Bar",
+        "difficulty": "Hard",
+        "video_url": "https://www.youtube.com/shorts/RhNyvtK-IaA"
+    },
+    {
+        "name": "Chin Ups",
+        "muscle_group": "Back , Biceps",
+        "equipment": "Pull-Up Bar",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/ts0JNJ9yEHc"
+    },
+    {
+        "name": "Dips",
+        "muscle_group": "Chest, Triceps",
+        "equipment": "Bodyweight",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/4ua3MzaU0QU"
+    },
+    {
+        "name": "Push Ups",
+        "muscle_group": "Chest , Core",
+        "equipment": "Bodyweight",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/pKZ-lkKKMws"
+    },
+    {
+        "name": "Lunges",
+        "muscle_group": "Quads, Glutes, Hamstrings",
+        "equipment": "Bodyweight",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/1cS-6KsJW9g"
+    },
+    {
+        "name": "Bulgarian Split Squat",
+        "muscle_group": "Quads, Glutes",
+        "equipment": "Dumbbells",
+        "difficulty": "Hard",
+        "video_url": "https://www.youtube.com/shorts/or1frhkjBDc"
+    },
+    {
+        "name": "Incline Dumbbell Press",
+        "muscle_group": "Upper Chest",
+        "equipment": "Dumbbells",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/ou6s32mJgjU"
+    },
+    {
+        "name": "Decline Bench Press",
+        "muscle_group": "Lower Chest",
+        "equipment": "Barbell",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/a-UFQE4oxWY"
+    },
+    {
+        "name": "Cable Crossover",
+        "muscle_group": "Chest",
+        "equipment": "Cable Machine",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/M97ra0UR-40"
+    },
+    {
+        "name": "Dumbbell Chest Fly",
+        "muscle_group": "Chest",
+        "equipment": "Dumbbells",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/rk8YayRoTRQ"
+    },
+    {
+        "name": "Shoulder Press",
+        "muscle_group": "Shoulders, Triceps",
+        "equipment": "Shoulder Press Machine",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/6v4nrRVySj0"
+    },
+    {
+        "name": "Lat Pulldown",
+        "muscle_group": "Lats",
+        "equipment": "Lat Machine",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/bNmvKpJSWKM"
+    },
+    {
+        "name": "Barbell Row",
+        "muscle_group": "Back",
+        "equipment": "Barbell",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/DgyslsszCQ0"
+    },
+    {
+        "name": "Seated Cable Row",
+        "muscle_group": "Back",
+        "equipment": "Cable Machine",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/DHA7QGDa2qg"
+    },
+    {
+        "name": "Face Pull",
+        "muscle_group": "Rear Delts, Upper Back",
+        "equipment": "Cable Machine",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/IeOqdw9WI90"
+    },
+    {
+        "name": "Leg Press",
+        "muscle_group": "Quads, Glutes",
+        "equipment": "Leg Press Machine",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/nDh_BlnLCGc"
+    },
+    {
+        "name": "Romanian Deadlift",
+        "muscle_group": "Hamstrings",
+        "equipment": "Barbell",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/5rIqP63yWFg"
+    },
+    {
+        "name": "Leg Extension",
+        "muscle_group": "Quads",
+        "equipment": "Leg Extension Machine",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/iQ92TuvBqRo"
+    },
+    {
+        "name": "Calf Raises",
+        "muscle_group": "Calves",
+        "equipment": "Bodyweight",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/baEXLy09Ncc"
+    },
+    {
+        "name": "Plank",
+        "muscle_group": "Core",
+        "equipment": "Bodyweight",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/xe2MXatLTUw"
+    },
+    {
+        "name": "Hanging Leg Raises",
+        "muscle_group": "Core",
+        "equipment": "Pull up Bar",
+        "difficulty": "Hard",
+        "video_url": "https://www.youtube.com/shorts/2n4UqRIJyk4"
+    },
+    {
+        "name": "Russian Twists",
+        "muscle_group": "Obliques",
+        "equipment": "Dumbbell",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/aRUMRbl7KS4"
+    },
+    {
+        "name": "Mountain Climbers",
+        "muscle_group": "Core, Cardio",
+        "equipment": "Bodyweight",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/9yyKVy8OWnA"
+    },
+    {
+        "name": "Bicep Curl",
+        "muscle_group": "Biceps",
+        "equipment": "Dumbbells",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/MKWBV29S6c0"
+    },
+    {
+        "name": "Hammer Curl",
+        "muscle_group": "Biceps",
+        "equipment": "Dumbbells",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/VuEclXR7sZY"
+    },
+    {
+        "name": "Tricep Pushdown",
+        "muscle_group": "Triceps",
+        "equipment": "Cable Machine",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/1FjkhpZsaxc"
+    },
+    {
+        "name": "Skull Crushers",
+        "muscle_group": "Triceps",
+        "equipment": "Barbell",
+        "difficulty": "Hard",
+        "video_url": "https://www.youtube.com/shorts/K3mFeNz4e3w"
+    },
+    {
+        "name": "Burpees",
+        "muscle_group": "Full Body",
+        "equipment": "Bodyweight",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/zlYA1SENYG4"
+    },
+    {
+        "name": "Box Jumps",
+        "muscle_group": "Legs",
+        "equipment": "Box",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/HJZh-12p6vg"
+    },
+    {
+        "name": "Battle Ropes",
+        "muscle_group": "Upper Body",
+        "equipment": "Ropes",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/X5g7P_M8Wo4"
+    },
+    {
+        "name": "Wrist Curls",
+        "muscle_group": "Forearm flexors",
+        "equipment": "Dumbbells",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/wSwo6mKHgZI"
+    },
+    {
+        "name": "Reverse Wrist Curls",
+        "muscle_group": "Forearm extensors",
+        "equipment": "Dumbbells",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/cRLJ86m00cU"
+    },
+    {
+        "name": "Lateral Raises",
+        "muscle_group": "Side Delts",
+        "equipment": "Dumbbells",
+        "difficulty": "Medium",
+        "video_url": "https://www.youtube.com/shorts/j2-RccWDhDo"
+    },
+    {
+        "name": "Shrugs",
+        "muscle_group": "Traps",
+        "equipment": "Dumbbells",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/rFsSeClGnNA"
+    },
+    {
+        "name": "Sprinting",
+        "muscle_group": "Cardio",
+        "equipment": "Bodyweight",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/IJzi1mfgh70"
+    },
+    {
+        "name": "High Knees",
+        "muscle_group": "Cardio",
+        "equipment": "Bodyweight",
+        "difficulty": "Easy",
+        "video_url": "https://www.youtube.com/shorts/9xuYXOzImy8"
+    }
+]
